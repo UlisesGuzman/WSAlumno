@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WSAlumno</string>
+    <string name="matricula">matricula</string>
+    <string name="notas">notas</string>
+    <string name="fecha_alta">fecha alta</string>
+    <string name="grupo">grupo</string>
+    <string name="si">si</string>
+    <string name="no">no</string>
+    <string name="guardar">guardar</string>
+    <string name="listar">listar</string>
+    <string name="generacion">generacion</string>
+    <string name="nombre">nombre</string>
+    <string name="modificar">modificar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="action_settings">action_settings</string>
+    <string name="alumnos">Alumnos</string>
+    <string name="regresar">regresar</string>
+</resources>
